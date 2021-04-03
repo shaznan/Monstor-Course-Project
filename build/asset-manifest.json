@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React---MonstorsRolodex--CourseProject-/static/css/main.6c5d9f79.chunk.css",
-    "main.js": "/React---MonstorsRolodex--CourseProject-/static/js/main.33b4f7e6.chunk.js",
-    "main.js.map": "/React---MonstorsRolodex--CourseProject-/static/js/main.33b4f7e6.chunk.js.map",
+    "main.js": "/React---MonstorsRolodex--CourseProject-/static/js/main.de57b059.chunk.js",
+    "main.js.map": "/React---MonstorsRolodex--CourseProject-/static/js/main.de57b059.chunk.js.map",
     "runtime-main.js": "/React---MonstorsRolodex--CourseProject-/static/js/runtime-main.fce3fc8f.js",
     "runtime-main.js.map": "/React---MonstorsRolodex--CourseProject-/static/js/runtime-main.fce3fc8f.js.map",
     "static/js/2.c7ff43ad.chunk.js": "/React---MonstorsRolodex--CourseProject-/static/js/2.c7ff43ad.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.fce3fc8f.js",
     "static/js/2.c7ff43ad.chunk.js",
     "static/css/main.6c5d9f79.chunk.css",
-    "static/js/main.33b4f7e6.chunk.js"
+    "static/js/main.de57b059.chunk.js"
   ]
 }
