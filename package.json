@@ -2,7 +2,7 @@
   "name": "first-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shaznan.github.com/React---MonstorsRolodex--CourseProject-",
+  "homepage": "https://shaznan.github.io/React---MonstorsRolodex--CourseProject-",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
